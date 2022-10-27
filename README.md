@@ -7,7 +7,7 @@
  <br/>
     <a> • Artist / Designer 🌸</a>
  <br/>
-    <strong height="50" height="50"> 莲 </strong>
+    <h1> 莲 </h1>
 
 </div>
 <div align="center">
