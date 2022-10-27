@@ -5,16 +5,15 @@
  <br/>
     <a> • Systems development (3/3) 👨‍🎓</a>
  <br/>
-    
-
-
+    <a> • Artist / Designer 🌸</a>
+ <br/>
+    <strong height="50" height="50"> 莲 </strong>
 
 </div>
 <div align="center">
   <h2>Status: </h2>
   <a href="https://github.com/L00utop">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00utop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=L00utop&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 <div style="display: inline_block">
@@ -27,8 +26,9 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </div>
 </div>
-<div aligncontent="center">
-    <a href"https://www.instagram.com/l00ut/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+<div>
+    <a href="https://www.instagram.com/l00ut"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+    <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
 </div>
     
 ![snake gif](https://github.com/L00utop/L00utop/blob/output/github-contribution-grid-snake.svg)
