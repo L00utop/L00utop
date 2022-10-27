@@ -1,11 +1,11 @@
 ###
 <div align="center">
-<h2>Welcome to my profile - ✨</h2>
-    <a>Front-end developer - 🪐</a>
+<h2>Welcome to my profile ✨</h2>
+    <a> • Front-end developer 🪐</a>
  <br/>
-    <a>Dystems development (3/3) - 👨‍🎓</a>
+    <a> • Systems development (3/3) 👨‍🎓</a>
  <br/>
-    <a>Contact me: rodriguesg716@gmail.com - 📫</a>
+    <a> • Contact me: rodriguesg716@gmail.com 📫</a>
 
 
 
