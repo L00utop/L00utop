@@ -1,13 +1,11 @@
 ###
 <div align="center">
-<h2>Welcome to my profile ✨</h2>
-  <a>🪐 Hoje meu foco é front end</a>
-  <br/>
-    <a>👨‍🎓 Curso desenvolvimento de sistemas (3/3)</a>
-  <br/>
-      <a> 📫 Contato: rodriguesg716@gmail.com</a>
-
-
+<h2>Welcome to my profile - ✨</h2>
+    <a>Front-end developer - 🪐</a>
+ <br/>
+    <a>Dystems development (3/3) - 👨‍🎓</a>
+ <br/>
+    <a>Contact me: rodriguesg716@gmail.com - 📫</a>
 
 
 
