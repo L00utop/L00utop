@@ -5,7 +5,7 @@
  <br/>
     <a> • Systems development (3/3) 👨‍🎓</a>
  <br/>
-    <a> • Contact me: rodriguesg716@gmail.com 📫</a>
+    
 
 
 
@@ -27,5 +27,8 @@
   <img align="center"  height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   </div>
 </div>
-  
+<div aligncontent="center">
+    <a href"https://www.instagram.com/l00ut/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+</div>
+    
 ![snake gif](https://github.com/L00utop/L00utop/blob/output/github-contribution-grid-snake.svg)
