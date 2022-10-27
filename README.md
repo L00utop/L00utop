@@ -30,4 +30,5 @@
   </div>
 </div>
   
-<div>Social  </div>
+
+  ![Snake animation](https://github.com/L00utop/L00utop/blob/output/github-contribution-grid-snake.svg)
