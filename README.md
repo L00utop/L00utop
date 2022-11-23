@@ -13,11 +13,6 @@
 
 </div>
 <hr/>
-<div align="center">
-  <h2>Status: </h2>
-  <a href="https://github.com/L00utop">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=L00utop&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
 
 <div style="display: inline_block">
   <h2 align="center">Most used languages: </h2>
