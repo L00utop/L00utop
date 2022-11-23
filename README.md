@@ -12,7 +12,6 @@
     <h1> 莲 </h1>
 
 </div>
-<hr/>
 
 <div style="display: inline_block">
   <h2 align="center">Most used languages: </h2>
@@ -40,7 +39,7 @@
    
     
 </div>
-<hr/>   
+  
 
     
 ![snake gif](https://github.com/L00utop/L00utop/blob/output/github-contribution-grid-snake.svg)
