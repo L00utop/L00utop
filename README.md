@@ -33,7 +33,7 @@
 <br/>
 <div align="center">
 <h2>Social media: </h2>
-    <a href="https://www.instagram.com/l00ut"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
+    <a href="https://www.instagram.com/_onlylotus/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
     <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
     <a href="https://steamcommunity.com/id/L00ut/"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"></a>
    
