@@ -5,7 +5,7 @@
     <br/>
     <a> • Front-end developer 🪐</a>
  <br/>
-    <a> • Systems development (3/3) 👨‍🎓</a>
+    <a> • Systems development 💻</a>
  <br/>
     <a> • Artist / Designer 🌸</a>
  <br/>
