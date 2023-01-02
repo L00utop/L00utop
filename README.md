@@ -1,8 +1,6 @@
 ###
 <div align="center">
 <h2>Welcome to my profile ✨</h2>
-    <a> Student </a>
-    <br/>
     <a> • Front-end developer 🪐</a>
  <br/>
     <a> • Systems development 💻</a>
