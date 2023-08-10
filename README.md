@@ -1,6 +1,5 @@
 
     
-![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
 
 
 <div align="center">
@@ -19,6 +18,8 @@
     <h1> 莲 </h1>
 
 </div>
+
+![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
 
 <div style="display: inline_block">
   <h2 align="center">Most used technologies: </h2>
