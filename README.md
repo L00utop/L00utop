@@ -34,11 +34,6 @@
 <h2>Social media: </h2>
     <a href="https://www.instagram.com/lotusonly_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
     <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
-   
-   
-    
-</div>
-  
 
-    
-![snake gif](https://github.com/L00utop/L00utop/blob/output/github-contribution-grid-snake.svg)
+</div>
+
