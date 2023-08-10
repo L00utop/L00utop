@@ -58,6 +58,8 @@
 
 
 <div align="center">
+
+[![Spotify](https://novatorem-by85ep53t-l00utop.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
     
 ![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
 
