@@ -1,7 +1,7 @@
 
 
 <div align="center">
-    <h3>🎶 Listening now</h3>
+    <h3>🎶 Listening to</h3>
     <img src="https://spotify-readme-nrqq64uh8-l00utop.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
 </div>
 
