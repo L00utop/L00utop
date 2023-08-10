@@ -1,13 +1,6 @@
 ###
 
-
-    
-<div align="center">
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
-
-<div/>
-
+![](https://komarev.com/ghpvc/?username=GabrielF&style=flat-plastic&color=blueviolet)
     
 <div align="center">
     <a> • Front-end developer 🪐</a>
