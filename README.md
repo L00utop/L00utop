@@ -1,5 +1,9 @@
 
     
+[![Spotify]([novatorem-by85ep53t-l00utop.vercel.app](https://vercel.com/l00utop/novatorem/BHjavJShrPkfojfgroVa1KCAcrAM))](https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr)
+
+
+
 
 
 <div align="center">
@@ -49,8 +53,11 @@
 
 <br/>
 
+
+
 <div align="center">
     
 ![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
 
 </div>
+
