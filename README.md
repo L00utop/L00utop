@@ -1,6 +1,6 @@
 ###
 <div align="center">
-<h2>Welcome to my profile ✨</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
     <a> • Front-end developer 🪐</a>
  <br/>
     <a> • Systems development 💻</a>
