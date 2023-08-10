@@ -1,6 +1,8 @@
 
     
-[![Spotify]([novatorem-by85ep53t-l00utop.vercel.app](https://vercel.com/l00utop/novatorem/BHjavJShrPkfojfgroVa1KCAcrAM))](https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr)
+[![Spotify](https://novatorem-by85ep53t-l00utop.vercel.app/api/spotify)](https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr)
+
+
 
 
 
