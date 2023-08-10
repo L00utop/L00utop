@@ -1,17 +1,27 @@
 
 
-<h3>🎶 Listening to</h3>
-<div align="center">
-    <img src="https://spotify-readme-nrqq64uh8-l00utop.vercel.app/api?theme=dark&rainbow=true" alt="Current Spotify Song">
-</div>
 
-<div align="center">
-    
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=600&color=FFC0CB&center=true&width=435&lines=Hi+there%2C+I'm+Gabriel;Front-end+Developer;GFX+Designer;Always+learning" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?size=30&font=VT323&repeat=false&color=ff9d9d&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
 
-</div>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=ffb7b7&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=FFC0CB&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=FFC0CB&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+
+<h3 align="">🎶 Listening to</h3>
+<img src="https://spotify-readme-nrqq64uh8-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+
+<br>
+<br>
+<br>
+
+
     
-<div align="center">
+<div>
     <a> • Front-end developer 🪐</a>
  <br/>
     <a> • Systems development 💻</a>
@@ -55,8 +65,6 @@
 
 
 <div align="center">
-
-[![Spotify](https://novatorem-by85ep53t-l00utop.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
     
 ![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
 
