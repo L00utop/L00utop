@@ -1,10 +1,15 @@
 ###
 
 
+    
 <div align="center">
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+profile!)](https://git.io/typing-svg)
 
+<div/>
+
+    
+<div align="center">
     <a> • Front-end developer 🪐</a>
  <br/>
     <a> • Systems development 💻</a>
