@@ -1,13 +1,4 @@
 
-    
-[![Spotify](https://novatorem-by85ep53t-l00utop.vercel.app/api/spotify)](https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr)
-
-
-
-
-
-
-
 <div align="center">
     
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&weight=600&size=30&pause=600&color=FFC0CB&center=true&width=435&lines=Hi+there%2C+I'm+Gabriel;Front-end+Developer;GFX+Designer;Always+learning" alt="Typing SVG" /></a>
