@@ -13,7 +13,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=FFC0CB&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
 
 <h3 align="">🎶 Listening to</h3>
-<img src="https://spotify-readme-nrqq64uh8-l00utop.vercel.app/api?theme=dark&rainbow=true&scan=true" alt="Current Spotify Song">
+<img src="https://spotify-readme-nrqq64uh8-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 <br>
 <br>
