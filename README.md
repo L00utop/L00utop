@@ -41,7 +41,9 @@
 <img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 
-
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=EE82EE&lines=My+skills;">
+    </a>
 
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <div style="display: inline_block">
