@@ -19,13 +19,10 @@
 
 
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&font=VT323&repeat=false&color=6A00F4&lines=•+Front-end+developer+🌸;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Front-end+developer+•;)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=6000&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+🌸;)](https://git.io/typing-svg)
-
-
-
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=6000&size=25&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+•;)](https://git.io/typing-svg)
 
 
 
@@ -33,7 +30,10 @@
 
 
 
-<h3 align="">🎶 Listening to</h3>
+
+
+
+<h3>🎶 Listening to</h3>
 <img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 
