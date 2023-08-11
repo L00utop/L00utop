@@ -37,14 +37,19 @@
 
 
 
-<h3>🎶 Listening to</h3>
-<img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+
+<div class="typing-section">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=973DA4&lines=Listening+to;">
+    </a>
+</div>
+      <img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 
 
 <div class="typing-section">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=DC52BF&lines=My+dev+skills;">
+      <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=FF5CCC&lines=My+dev+skills;">
     </a>
 </div>
 
