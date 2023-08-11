@@ -1,5 +1,4 @@
-<div class="typing-section">
-  <div>
+<div>
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4CC9F0&lines=---------------------;">
     </a>
@@ -18,7 +17,7 @@
       <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=3A0CA3&lines=---------------------;">
     </a>
   </div>
-</div>
+
 
 <div class="typing-section">
   <a href="https://git.io/typing-svg">
@@ -30,12 +29,6 @@
     <img src="https://readme-typing-svg.demolab.com/?duration=6000&size=25&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+•;">
   </a>
 </div>
-
-
-
-
-
-
 
 
 <div class="typing-section">
