@@ -47,7 +47,7 @@
     </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,python&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python&theme=dark)](https://skillicons.dev)
 
 <div style="display: inline_block">
   <h2 >Most used technologies: </h2>
