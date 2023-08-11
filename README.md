@@ -36,26 +36,7 @@
 <h3 align="">🎶 Listening to</h3>
 <img src="https://spotify-readme-a5cp7p7tn-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
-<br>
-<br>
-<br>
 
-
-    
-
-    
-
-
-
-<div>
-    <a> • Front-end developer 🪐</a>
- <br/>
-    <a> • Systems development 💻</a>
- <br/>
-    <a> • Artist / Designer 🌸</a>
- <br/>
-    <h1> 莲 </h1>
-</div>
 
 
 
