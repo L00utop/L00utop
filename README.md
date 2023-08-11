@@ -1,31 +1,35 @@
-
-
-
-<div>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4CC9F0&lines=---------------------;)](https://git.io/typing-svg)
-
+<div class="typing-section">
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4CC9F0&lines=---------------------;">
+    </a>
+  </div>
 </div>
-<div>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4361EE&lines=Welcome+to+my+profile!;)](https://git.io/typing-svg)
-
+<div class="typing-section">
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4361EE&lines=Welcome+to+my+profile!;">
+    </a>
+  </div>
 </div>
-<div>
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=3A0CA3&lines=---------------------;)](https://git.io/typing-svg)
-
+<div class="typing-section">
+  <div>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=3A0CA3&lines=---------------------;">
+    </a>
+  </div>
 </div>
 
-
-    
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Front-end+developer+•;)](https://git.io/typing-svg)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=6000&size=25&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+•;)](https://git.io/typing-svg)
-
-
-
+<div class="typing-section">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Front-end+developer+•;">
+  </a>
+</div>
+<div class="typing-section">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?duration=6000&size=25&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+•;">
+  </a>
+</div>
 
 
 
