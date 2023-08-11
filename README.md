@@ -37,6 +37,8 @@
 
 
 
+<h3>🎶 Listening to</h3>
+<img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 
 
@@ -50,8 +52,6 @@
 
 
 
-<h3>🎶 Listening to</h3>
-<img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 <div >
 <h2>Social media: </h2>
