@@ -43,7 +43,7 @@
 
 
 
-
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
 <div style="display: inline_block">
   <h2 >Most used technologies: </h2>
   <div>
