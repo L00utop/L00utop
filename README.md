@@ -43,7 +43,7 @@
 
 <div class="typing-section">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=EE82EE&lines=My+skills;">
+      <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=EE82EE&lines=My+dev+skills;">
     </a>
 </div>
 
