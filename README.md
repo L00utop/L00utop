@@ -37,8 +37,7 @@
 
 
 
-<h3>🎶 Listening to</h3>
-<img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
+
 
 
 <div class="typing-section">
@@ -48,6 +47,11 @@
 </div>
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,python&theme=dark&perline=3)](https://skillicons.dev)
+
+
+
+<h3>🎶 Listening to</h3>
+<img src="https://spotify-readme-7de70mejv-l00utop.vercel.app/api?theme=dark&scan=true" alt="Current Spotify Song">
 
 <div style="display: inline_block">
   <h2 >Most used technologies: </h2>
