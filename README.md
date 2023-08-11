@@ -3,29 +3,29 @@
 
 <div>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1000&size=30&font=VT323&repeat=false&color=ff9d9d&lines=---------------------;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=ff9d9d&lines=---------------------;)](https://git.io/typing-svg)
 
 </div>
 <div>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1000&size=30&font=VT323&repeat=false&color=ff9d9d&lines=Welcome+to+my+profile!;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=ff9d9d&lines=Welcome+to+my+profile!;)](https://git.io/typing-svg)
 
 </div>
 <div>
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1000&size=30&font=VT323&repeat=false&color=ff9d9d&lines=---------------------;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=ff9d9d&lines=---------------------;)](https://git.io/typing-svg)
 
 </div>
 
 
     
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=ffb7b7&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=5000&font=VT323&repeat=false&color=ffb7b7&lines=•+Front-end+developer+🌸;)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=FFC0CB&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?duration=6000&font=VT323&repeat=false&color=FFC0CB&lines=•+Artist+/+Designer+🌸;)](https://git.io/typing-svg)
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?font=VT323&repeat=false&color=FFC0CB&lines=Welcome+to+my+profile;)](https://git.io/typing-svg)
+
 
 
 
