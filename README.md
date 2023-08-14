@@ -56,13 +56,11 @@
     <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
 </div>
 
-<br/>
+<hr>
 
 
 
 <div >
-    
 ![](https://komarev.com/ghpvc/?username=L00utop&style=flat-plastic&color=ff69b4)
-
 </div>
 
