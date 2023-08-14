@@ -50,6 +50,10 @@
 
 
 
+<div class="typing-section">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Social+media•;">
+  </a>
 
 <div >
 <h2>Social media: </h2>
