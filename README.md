@@ -56,7 +56,10 @@
   </a>
 
 <div >
-<h2>Social media: </h2>
+    
+<a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Social+media+•;">
+  </a>
     <a href="https://www.instagram.com/lotusonly_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" ></a>
     <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" ></a>
 </div>
