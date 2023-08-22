@@ -46,7 +46,7 @@
     </a>
 </div>
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,python&theme=dark&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mysql,python, java&theme=dark&perline=3)](https://skillicons.dev)
 
 <img src="https://readme-typing-svg.demolab.com/?duration=5000&size=30&font=VT323&repeat=false&color=FF5CCC&lines=Social+media;">
     
