@@ -1,38 +1,38 @@
 <div>
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4CC9F0&lines=---------------------;">
     </a>
   </div>
 </div>
 <div class="typing-section">
   <div>
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=4361EE&lines=Welcome+to+my+profile!;">
     </a>
   </div>
 </div>
 <div class="typing-section">
   <div>
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="https://readme-typing-svg.demolab.com/?duration=1500&size=30&font=VT323&repeat=false&color=3A0CA3&lines=---------------------;">
     </a>
   </div>
 
 
 <div>
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com/?duration=5000&size=25&font=VT323&repeat=false&color=6A00F4&lines=•+Software+engineer+•;">
   </a>
 </div>
 <div>
-  <a href="https://git.io/typing-svg">
+  <a>
     <img src="https://readme-typing-svg.demolab.com/?duration=5500&size=25&font=VT323&repeat=false&color=7209B7&lines=•+Artist+/+Designer+•;">
   </a>
 </div>
 
 
 <div>
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=973DA4&lines=Listening+to;">
     </a>
 </div>
@@ -41,7 +41,7 @@
 
 
 <div>
-    <a href="https://git.io/typing-svg">
+    <a>
       <img src="https://readme-typing-svg.demolab.com/?duration=7000&size=30&font=VT323&repeat=false&color=FF5CCC&lines=My+dev+skills;">
     </a>
 </div>
