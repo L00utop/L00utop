@@ -12,6 +12,7 @@
   <a href="https://x.com/WhoIsHachisu_"><img src="https://img.shields.io/badge/X-%40WhoIsHachisu__-111111?style=for-the-badge&logo=x&logoColor=white" alt="X @WhoIsHachisu_" /></a>
   <a href="https://open.spotify.com/user/lm4o2na5afi0u5vww6wwnyadr"><img src="https://img.shields.io/badge/Spotify-Profile-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Profile" /></a>
   <a href="https://hasu.com.br"><img src="https://img.shields.io/badge/Hasu-hasu.com.br-4CC9F0?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Hasu Website" /></a>
+  <a href="https://guns.lol/notlotus"><img src="https://img.shields.io/badge/guns.lol-notlotus-7209B7?style=for-the-badge" alt="guns.lol/notlotus" /></a>
   <img src="https://komarev.com/ghpvc/?username=L00utop&style=for-the-badge&color=ff5ccc" alt="Profile views" />
 </p>
 
