@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=32&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=46&lines=Welcome+to+my+profile!+I%27m+Gabriel+(L00utop);Software+Engineer+%E2%80%A2+Artist+%2F+Designer;Building%2C+learning+%26+evolving;Studying+AI%2C+LLMs+%26+Agent+Harnesses" alt="Gabriel Rodrigues - Software Engineer and Artist/Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=32&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=46&lines=Welcome+to+my+profile!+I%27m+Gabriel;Software+Engineer+%E2%80%A2+Artist+%2F+Designer;Building%2C+learning+%26+evolving;Studying+AI%2C+LLMs+%26+Agent+Harnesses" alt="Gabriel Rodrigues - Software Engineer and Artist/Designer" />
 
 <p>
   <a href="https://www.instagram.com/n0tlotus/"><img src="https://img.shields.io/badge/Instagram-%40n0tlotus-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @n0tlotus" /></a>
