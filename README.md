@@ -23,13 +23,14 @@
 ### ✨ About Me
 
 - 🇧🇷 Based in **Cerquilho, SP — Brazil**
-- 🛠️ Building **[Hasu](https://hasu.com.br)** (pixel-art desktop companion) & **[HMFOMT_PC](https://github.com/L00utop/HMFOMT_PC)** (native C++ GBA port + UDP co-op)
 - 🤖 Studying **AI, LLMs, Agent Harnesses & AI engineering**
 - 🎨 Combining **software engineering**, **retro emulation / game dev**, **web & mobile** and **pixel art**
 
 ---
 
 ### 🚀 Featured Projects
+
+<!-- FEATURED-PROJECTS:START -->
 
 <div align="center">
 
@@ -41,8 +42,8 @@
         Pixel-art desktop companion for Windows with multi-monitor support, media controls, and wellness reminders (built with AI assistance).
       </p>
       <p align="center">
-        <a href="https://hasu.com.br"><img src="https://img.shields.io/badge/Website-hasu.com.br-4CC9F0?style=flat-square&logo=googlechrome&logoColor=white" alt="Hasu Website" /></a>
-        <a href="https://github.com/L00utop/hasu-releases/releases"><img src="https://img.shields.io/badge/Releases-Windows_Alpha-FF5CCC?style=flat-square&logo=github&logoColor=white" alt="Hasu Releases" /></a>
+        <a href="https://hasu.com.br"><img src="https://img.shields.io/badge/Website-hasu.com.br-4CC9F0?style=flat-square&logo=googlechrome&logoColor=white" alt="hasu-releases Website" /></a>
+        <a href="https://github.com/L00utop/hasu-releases/releases"><img src="https://img.shields.io/badge/Releases-Windows_Alpha-FF5CCC?style=flat-square&logo=github&logoColor=white" alt="hasu-releases Releases" /></a>
         <img src="https://img.shields.io/badge/Built_with-AI-7209B7?style=flat-square" alt="Built with AI" />
       </p>
     </td>
@@ -53,7 +54,7 @@
       </p>
       <p align="center">
         <a href="https://github.com/L00utop/HMFOMT_PC"><img src="https://img.shields.io/badge/C%2B%2B-Engine-4361EE?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" /></a>
-        <a href="https://github.com/L00utop/HMFOMT_PC"><img src="https://img.shields.io/badge/SDL2-CMake-3A0CA3?style=flat-square&logo=cmake&logoColor=white" alt="SDL2 and CMake" /></a>
+        <a href="https://github.com/L00utop/HMFOMT_PC"><img src="https://img.shields.io/badge/SDL2-CMake-3A0CA3?style=flat-square&logo=cmake&logoColor=white" alt="SDL2 CMake" /></a>
         <img src="https://img.shields.io/badge/Built_with-AI-7209B7?style=flat-square" alt="Built with AI" />
       </p>
     </td>
@@ -61,6 +62,8 @@
 </table>
 
 </div>
+
+<!-- FEATURED-PROJECTS:END -->
 
 ---
 

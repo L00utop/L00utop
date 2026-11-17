@@ -1,0 +1,31 @@
+{
+  "username": "L00utop",
+  "max_projects": 4,
+  "min_projects": 2,
+  "max_age_days": 365,
+  "exclude": ["L00utop"],
+  "ai_topics": ["ai", "ai-assisted", "built-with-ai", "llm", "llms", "agent", "agents", "harness"],
+  "overrides": {
+    "hasu-releases": {
+      "title": "🐾 Hasu — Desktop Companion",
+      "description": "Pixel-art desktop companion for Windows with multi-monitor support, media controls, and wellness reminders (built with AI assistance).",
+      "website": "https://hasu.com.br",
+      "website_label": "hasu.com.br",
+      "releases_label": "Windows Alpha",
+      "ai": true
+    },
+    "HMFOMT_PC": {
+      "title": "🌾 HMFOMT_PC — Native Port & Co-op",
+      "description_html": "Clean-room native PC port &amp; multiplayer co-op engine for <em>Harvest Moon: Friends of Mineral Town</em> (GBA) over UDP (built with AI assistance).",
+      "extra_badges": [
+        {
+          "label": "SDL2",
+          "message": "CMake",
+          "color": "3A0CA3",
+          "logo": "cmake"
+        }
+      ],
+      "ai": true
+    }
+  }
+}
