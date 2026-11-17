@@ -1,6 +1,6 @@
 {
   "username": "L00utop",
-  "max_projects": 4,
+  "max_projects": 2,
   "min_projects": 2,
   "max_age_days": 365,
   "exclude": ["L00utop"],
