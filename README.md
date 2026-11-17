@@ -5,7 +5,7 @@
 <br />
 <br />
 
-<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=32&duration=3200&pause=1200&color=4CC9F0&center=true&vCenter=true&width=700&height=46&lines=Welcome+to+my+profile!+I%27m+Gabriel+(L00utop);Software+Engineer+%E2%80%A2+Artist+%2F+Designer;Building%2C+learning+%26+evolving;Studying+AI%2C+LLMs+%26+Agent+Harnesses" alt="Gabriel Rodrigues - Software Engineer and Artist/Designer" />
+<img src="https://readme-typing-svg.demolab.com?font=VT323&weight=400&size=32&duration=3200&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&height=46&lines=Welcome+to+my+profile!+I%27m+Gabriel+(L00utop);Software+Engineer+%E2%80%A2+Artist+%2F+Designer;Building%2C+learning+%26+evolving;Studying+AI%2C+LLMs+%26+Agent+Harnesses" alt="Gabriel Rodrigues - Software Engineer and Artist/Designer" />
 
 <p>
   <a href="https://www.instagram.com/n0tlotus/"><img src="https://img.shields.io/badge/Instagram-%40n0tlotus-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @n0tlotus" /></a>
@@ -83,15 +83,15 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L00utop&theme=synthwave" alt="GitHub Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=L00utop&theme=github_dark&bg_color=111111&border_color=2b2b2b&title_color=ffffff&text_color=d0d7de&icon_color=ffffff&chart_color=e6edf3" alt="GitHub Profile Details" />
 
 <br />
 
-<img src="https://streak-stats.demolab.com?user=L00utop&theme=synthwave&hide_border=true" height="164" alt="GitHub Streak Stats" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=L00utop&theme=synthwave" height="164" alt="Top Languages by Repo" />
+<img src="https://streak-stats.demolab.com?user=L00utop&background=111111&border=2b2b2b&stroke=2b2b2b&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=d0d7de&sideLabels=8b949e&dates=8b949e" height="164" alt="GitHub Streak Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=L00utop&theme=github_dark&bg_color=111111&border_color=2b2b2b&title_color=ffffff&text_color=d0d7de&icon_color=ffffff" height="164" alt="GitHub Stats" />
 
 </div>
 
 <br />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4CC9F0,50:4361EE,100:FF5CCC&height=90&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:3a3a3a,100:e6edf3&height=90&section=footer" width="100%" alt="" />
