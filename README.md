@@ -37,6 +37,15 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      <h4 align="center"><a href="https://github.com/L00utop/TCC">🟨 TCC</a></h4>
+      <p align="center">
+        AppTCC
+      </p>
+      <p align="center">
+        <a href="https://github.com/L00utop/TCC"><img src="https://img.shields.io/badge/JavaScript-Repo-323330?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
       <h4 align="center"><a href="https://github.com/L00utop/hasu-releases">🐾 Hasu — Desktop Companion</a></h4>
       <p align="center">
         Pixel-art desktop companion for Windows with multi-monitor support, media controls, and wellness reminders (built with AI assistance).
@@ -47,7 +56,9 @@
         <img src="https://img.shields.io/badge/Built_with-AI-7209B7?style=flat-square" alt="Built with AI" />
       </p>
     </td>
-    <td width="50%" valign="top">
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
       <h4 align="center"><a href="https://github.com/L00utop/HMFOMT_PC">🌾 HMFOMT_PC — Native Port &amp; Co-op</a></h4>
       <p align="center">
         Clean-room native PC port &amp; multiplayer co-op engine for <em>Harvest Moon: Friends of Mineral Town</em> (GBA) over UDP (built with AI assistance).
